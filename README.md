@@ -1,12 +1,11 @@
 
 BAO JAIN
 4026 167th Street SE, Bothell, WA 98012					   b3vang@gmail.com /425.615.1625
-PROFESSIONAL PROFILE
 
+PROFESSIONAL PROFILE
 A dedicated and highly skilled Test Engineer proficient in hardware and software testing with the ability to oversee quality assurance needs, including testing, validation of systems, and reporting of defects. Provides strong skills in identifying problems and potential future issues, and has the ability to work with various teams to develop solutions and prevention measures. A fast learner with a strong work ethic, who continually pursues learning new technologies and skills within the field for continued professional growth.
 
 PROFESSIONAL EXPERIENCE 
-
 •	Knowledge on different phases of STLC (Software Testing Life Cycle), SDLC (Software Development Life Cycle).
 •	Knowledge in performing quality assurance activities and quality related documentation.
 •	Knowledge in creating Test Specification, Test Plans, Test-Case Designs, Defect Logging and Tracking. 
